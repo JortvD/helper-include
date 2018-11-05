@@ -12,5 +12,8 @@
 	"bugs": {
 		"url": "https://github.com/ijo-sm/helper-include/issues"
 	},
-	"homepage": "https://github.com/ijo-sm/helper-include#readme"
+	"homepage": "https://github.com/ijo-sm/helper-include#readme",
+	"dependencies": {
+		"@ijo-sm/utils": "latest"
+	}
 }
