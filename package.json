@@ -1,0 +1,16 @@
+{
+	"name": "@ijo-sm/helper-include",
+	"version": "0.0.1",
+	"description": "The include helper for IJO",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ijo-sm/helper-include.git"
+	},
+	"author": "IJO",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/ijo-sm/helper-include/issues"
+	},
+	"homepage": "https://github.com/ijo-sm/helper-include#readme"
+}
